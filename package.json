@@ -1,0 +1,11 @@
+{
+  "name": "dmc-floss-helper",
+  "version": "1.0.0",
+  "description": "Given an image, it suggest the dmc floss colors closest to each color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Pagels",
+  "license": "ISC"
+}
